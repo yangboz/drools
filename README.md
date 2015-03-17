@@ -13,7 +13,7 @@ mvn spring-boot:run
 
 Try the drools offer check using the following URL:
 
-[http://localhost:8080/api.jsp#!/fraud/checkOrder](http://localhost:8080/api.jsp#!/fraud/checkOrder)
+[http://localhost:8080/sdoc.jsp#!/fraud/checkOrder](http://localhost:8080/sdoc.jsp#!/fraud/checkOrder)
 
 Paste the following offer:
 
